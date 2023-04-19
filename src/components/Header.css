@@ -1,0 +1,20 @@
+div{
+    background: #FFF;
+    text-align: center;
+    border-radius: 1.25rem;
+}
+
+img{
+    height: 18.75rem;
+    margin: 0.625rem;
+    border-radius: 20px;
+}
+
+h1{
+    padding: 1.700rem;
+    text-align: center;
+    font-weight: 700;
+    letter-spacing: 0.125rem;
+    word-spacing: 0.1875rem;
+    text-decoration: underline;
+}
